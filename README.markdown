@@ -46,4 +46,6 @@ Everything else is in Extensions
 ----------------
 Yes, sounds slim and focused, but where is the support for all the features that the competitors have? 
 
-Generally, they are maintained as specific focused extensions with owners who keep them in sync and pull in new ideas and fixes fast. These are summarized on the [extensions](http://ninject.org/extensions) section of the project website. Most are hosted alongside the core project right here.
+Generally, they are maintained as specific focused extensions with owners who keep them in sync and pull in new ideas and fixes
+fast. These are summarized on the [extensions](http://ninject.org/extensions) section of the project website. Most are hosted
+alongside the core project right here.
